@@ -1,0 +1,6 @@
+c:\users\jusja\source\repos\GC_Lab_7\GC_Lab_7\bin\Debug\GC_Lab_7.exe.config
+c:\users\jusja\source\repos\GC_Lab_7\GC_Lab_7\bin\Debug\GC_Lab_7.exe
+c:\users\jusja\source\repos\GC_Lab_7\GC_Lab_7\bin\Debug\GC_Lab_7.pdb
+c:\users\jusja\source\repos\GC_Lab_7\GC_Lab_7\obj\Debug\GC_Lab_7.csproj.CoreCompileInputs.cache
+c:\users\jusja\source\repos\GC_Lab_7\GC_Lab_7\obj\Debug\GC_Lab_7.exe
+c:\users\jusja\source\repos\GC_Lab_7\GC_Lab_7\obj\Debug\GC_Lab_7.pdb
